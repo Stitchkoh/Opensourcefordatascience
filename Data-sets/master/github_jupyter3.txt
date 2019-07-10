@@ -1,0 +1,8 @@
+https://github.com/ledphong1978/Opensourcefordatascience/tree/master/Data-sets/master
+Error
+==========
+https://raw.githubusercontent.com/ledphong1978/Opensourcefordatascience/master/Data-sets/master/diamonds.csv
+OK
+https://raw.githubusercontent.com/ledphong1978/Opensourcefordatascience/master/Data-sets/master/Iris_Data.csv
+
+https://raw.githubusercontent.com/ledphong1978/Opensourcefordatascience/master/Data-sets/master/lpa_csv.csv
